@@ -1,6 +1,6 @@
 """System module."""
 import unittest
-from translator import translate_english_to_french, translate_french_to_english
+from ../translator import translate_english_to_french, translate_french_to_english
 
 class Testf2e(unittest.TestCase):
     """ Testf2e """
